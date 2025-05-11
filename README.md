@@ -23,8 +23,14 @@ Check it out here: [https://vishyy27.github.io/Weather-App](https://vishyy27.git
 - [OpenWeatherMap API](https://openweathermap.org/)
 
 ## 📸 Screenshots
+<<<<<<< HEAD
 ![image](https://github.com/user-attachments/assets/8faef168-4bac-4c7e-b65b-bd62c6a85f41)
 
+
+=======
+
+![alt text](image.png)
+>>>>>>> 000f523 (Updated structre)
 
 ## 🧑‍💻 How to Run Locally
 
